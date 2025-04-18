@@ -10,7 +10,7 @@ Projekti "Robot" on ohjelmistorobotiikkaprojekti ja se on toteutettu Pythonilla.
 
 ## Cells
 
-Tämä on Lualla ja LÖVE-pelimoottorilla toteutettu solusimulaatio. Solut syövät näytölle ilmestyviä ruokia, kasvavat ja lopulta jakautuvat. Jos solu ei saa ruokaa pitkään aikaan, häviää näytöltä. Uusia soluja voi luoda välilyönnillä ja peli sulkeutuu Esc-näppäimellä. Tätä simulaatiota voisi laajentaa esimerkiksi lisäämällä toisia soluja syöviä petosoluja ja lisäämällä jonkinlaista evoluutiota soluille.
+Tämä on Lualla ja LÖVE-pelimoottorilla toteutettu solusimulaatio. Solut syövät näytölle ilmestyviä ruokia, kasvavat ja lopulta jakautuvat. Jos solu ei saa ruokaa pitkään aikaan, niin se häviää näytöltä. Uusia soluja voi luoda välilyönnillä ja peli sulkeutuu Esc-näppäimellä. Tätä simulaatiota voisi laajentaa esimerkiksi lisäämällä toisia soluja syöviä petosoluja ja lisäämällä jonkinlaista evoluutiota soluille.
 
 ![Cells Image](Images/Cells.png)
 

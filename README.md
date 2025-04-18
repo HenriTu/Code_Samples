@@ -16,7 +16,7 @@ Tämä on Lualla ja LÖVE-pelimoottorilla toteutettu solusimulaatio. Solut ahmiv
 
 ## Game of Life
 
-Klassinen Conwayn "elämänpeli", joka osoittaa, kuinka yksinkertaisilla säännöillä voidaan luoda monimutkaisia, lähes elämänkaltaisia emergenttejä kuvioita. Voit luoda halutun alkutilanteen piirtämällä hiirellä (vasen hiirennäppäin pohjassa) alkukuvion ja sen jälkeen voit simuloida seuraavia askeleita painamalla välilyöntiä. Jatkuvan simulaation saa aikaiseksi pitämässä välilyöntiä pohjassa.
+Klassinen Conwayn "elämänpeli", joka osoittaa, kuinka yksinkertaisilla säännöillä voidaan luoda monimutkaisia, lähes elämänkaltaisia emergenttejä kuvioita. Voit luoda halutun alkutilanteen piirtämällä hiirellä (vasen hiirennäppäin pohjassa) alkukuvion ja sen jälkeen voit simuloida seuraavia askeleita painamalla välilyöntiä. Jatkuvan simulaation saa aikaiseksi pitämällä välilyöntiä pohjassa.
 
 Lisätietoa pelin taustasta löytyy osoitteesta
 

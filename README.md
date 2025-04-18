@@ -10,7 +10,7 @@ Projekti "Robot" on ohjelmistorobotiikkaprojekti ja se on toteutettu Pythonilla.
 
 ## Cells
 
-Tämä on Lualla ja LÖVE-pelimoottorilla toteutettu solusimulaatio. Solut syövät näytölle ilmestyviä ruokia, kasvavat ja lopulta jakautuvat. Jos solu ei saa ruokaa pitkään aikaan, niin se kuolee ja häviää näytöltä. Uusia soluja voi luoda välilyönnillä ja peli sulkeutuu Esc-näppäimellä. Tätä simulaatiota voisi laajentaa esimerkiksi lisäämällä toisia soluja syöviä petosoluja ja lisäämällä jonkinlaista evoluutiota soluille.
+Tämä on Lualla ja LÖVE-pelimoottorilla toteutettu solusimulaatio. Solut syövät näytölle ilmestyviä ruokia, kasvavat ja lopulta jakautuvat. Jos solu ei saa ruokaa pitkään aikaan, häviää näytöltä. Uusia soluja voi luoda välilyönnillä ja peli sulkeutuu Esc-näppäimellä. Tätä simulaatiota voisi laajentaa esimerkiksi lisäämällä toisia soluja syöviä petosoluja ja lisäämällä jonkinlaista evoluutiota soluille.
 
 ![Cells Image](Images/Cells.png)
 
@@ -20,7 +20,7 @@ Klassinen Conwayn "elämänpeli", joka osoittaa, kuinka yksinkertaisilla säänn
 
 Lisätietoa pelin taustasta löytyy osoitteesta
 
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life/
 
 ![Game of Life Image](Images/Game_Of_Life.png)
 
@@ -38,7 +38,6 @@ Klassinen matopeli, joka on toteutettu Lualla ja LÖVE-pelimoottorila. Olen laaj
 
 ## Robot
 
-Yksinkertainen Pythonilla ja Seleniumilla toteutettu ohjelmistorobotiikka-framework. Esimerkkitehtävässä käytetään minun omaa nettisivua
+Yksinkertainen Pythonilla ja Seleniumilla toteutettu ohjelmistorobotiikan framework. Esimerkkitehtävässä käytetään minun omaa nettisivua
 
 https://manifoldmath.com/
-

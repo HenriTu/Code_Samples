@@ -12,6 +12,8 @@ Projekti "Robot" on ohjelmistorobotiikkaprojekti ja se on toteutettu Pythonilla.
 
 Tämä on Lualla ja LÖVE-pelimoottorilla toteutettu solusimulaatio. Solut syövät näytölle ilmestyviä ruokia, kasvavat ja lopulta jakautuvat. Jos solu ei saa ruokaa pitkään aikaan, niin se kuolee ja häviää näytöltä. Uusia soluja voi luoda välilyönnillä ja peli sulkeutuu Esc-näppäimellä. Tätä simulaatiota voisi laajentaa esimerkiksi lisäämällä toisia soluja syöviä petosoluja ja lisäämällä jonkinlaista evoluutiota soluille.
 
+![Cells Image](Images/Cells.png)
+
 ## Game of Life
 
 Klassinen Conwayn "elämänpeli", joka osoittaa, kuinka yksinkertaisilla säännöillä voidaan luoda monimutkaisia, lähes elämänkaltaisia emergenttejä kuvioita. Voit luoda halutun alkutilanteen piirtämällä hiirellä (vasen hiirennäppäin pohjassa) alkukuvion ja sen jälkeen voit simuloida seuraavia askeleita painamalla välilyöntiä. Jatkuvan simulaation saa aikaiseksi pitämässä välilyöntiä pohjassa.
@@ -19,6 +21,8 @@ Klassinen Conwayn "elämänpeli", joka osoittaa, kuinka yksinkertaisilla säänn
 Lisätietoa pelin taustasta löytyy osoitteesta
 
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+![Game of Life Image](Images/Game_Of_Life.png)
 
 ## Neural Network
 
@@ -29,6 +33,8 @@ Projektissa neuroverkko koulutetaan sadalla käsinpiirretyllä numerolla ja täm
 ## Snake
 
 Klassinen matopeli, joka on toteutettu Lualla ja LÖVE-pelimoottorila. Olen laajentamassa peliä siten, että madon ohjausta hallinnoi aiemmin mainittu neuroverkko, ja neuroverkon painokertoimia muokataan evoluutioalgoritmin avulla. Ainakin teoriassa neuroverkon pitäisi oppia pelaamaan matopeliä, joskin alustavien tulosten perusteella madot alkavat helposti kiertämään kehää. Tämän ongelman luultavasti saa ratkaistua paremmalla evoluutioalgortimin fitness-funktiolla.
+
+![Snake Image](Images/Snake.png)
 
 ## Robot
 

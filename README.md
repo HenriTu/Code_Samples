@@ -20,7 +20,7 @@ Klassinen Conwayn "elämänpeli", joka osoittaa, kuinka yksinkertaisilla säänn
 
 Lisätietoa pelin taustasta löytyy osoitteesta
 
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life/
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 ![Game of Life Image](Images/Game_Of_Life.png)
 

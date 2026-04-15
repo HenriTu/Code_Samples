@@ -1,12 +1,14 @@
 # Ohjelmakoodinäytteet
 
-Projekteja on viisi kappaletta. Projektit "Cells", "Game of Life", "Neural Network" ja "Snake" on toteutettu Lualla ja erittäin kevyellä ja elegantilla LÖVE-pelimoottorilla. Näiden projektien testaaminen on äärimmäisen helppoa: voit ladata LÖVE-pelimoottorin osoitteesta
+Projekteja on kuusi kappaletta. Projektit "Cells", "Game of Life", "Neural Network" ja "Snake" on toteutettu Lualla ja erittäin kevyellä ja elegantilla LÖVE-pelimoottorilla. Näiden projektien testaaminen on äärimmäisen helppoa: voit ladata LÖVE-pelimoottorin osoitteesta
 
 https://love2d.org/
 
 ja kun pelimoottorin asennus on valmis, niin voit testata projektia vetämällä projektikansion LÖVE-pikakuvakkeen päälle, jolloin pelin suoritus alkaa.
 
 Projekti "Robot" on ohjelmistorobotiikkaprojekti ja se on toteutettu Pythonilla. Projektia on helppo testata venv-ympäristössä, kun asentaa tiedoston "requirements.txt" vaatimat riippuvuudet.
+
+Projekti "Blogger_Robot" tuottaa blogisisältöä käyttämällä OpenAI:n tekstien ja kuvien generointia.
 
 ## Cells
 
@@ -41,3 +43,7 @@ Klassinen matopeli, joka on toteutettu Lualla ja LÖVE-pelimoottorila. Olen laaj
 Yksinkertainen Pythonilla ja Seleniumilla toteutettu ohjelmistorobotiikan framework. Esimerkkitehtävässä käytetään minun omaa nettisivua
 
 https://manifoldmath.com/
+
+## Blogger_Robot
+
+Pythonilla toteutettu blogisisältöä tuottava robotti. Aiheet ja generoitavien kuvien ohjeet löytyvät tiedostosta subjects.yaml. Jokaisesta aiheesta muodostuu oma kansio, joka sisältää postauksen tekstisisällön, kuvat (png ja jpg) ja SEO:ta edistävät tiedot. Esimerkkitapaukset löytyvät kansiosta blog_posts. Generoidut sisällöt voisi siirtää johonkin blogipalveluun esimerkiksi rajapinnan kautta. Robottia voisi hyödyntää esimerkiksi yrityksien some-bottina.

@@ -8,4 +8,4 @@ def connect_to_open_ai() -> AIHandler:
     and returns an AIHandler instance.
     """
 
-    return AIHandler(keyring.get_password("pinterest-bot", "OPEN_AI_API_KEY"))
+    return AIHandler(keyring.get_password("blogger-bot", "OPEN_AI_API_KEY"))

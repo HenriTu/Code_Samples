@@ -47,3 +47,5 @@ https://manifoldmath.com/
 ## Blogger_Robot
 
 Pythonilla ja OpenAI:n rajapinnalla toteutettu blogisisältöä tuottava robotti. Aiheet ja generoitavien kuvien ohjeet löytyvät tiedostosta subjects.yaml. Jokaisesta aiheesta muodostuu oma kansio, joka sisältää postauksen tekstisisällön, kuvat (png ja jpg) ja SEO:ta edistävät tiedot. Esimerkkitapaukset löytyvät kansiosta blog_posts. Generoidut sisällöt voisi siirtää johonkin blogipalveluun esimerkiksi rajapinnan kautta. Robottia voisi hyödyntää esimerkiksi yrityksien some-bottina.
+
+![Blogger Robot Image](Blogger_Robot/blog_post/pink_towels/ultra-plush-pink-towels-rustic-bathroom.png)

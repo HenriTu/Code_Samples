@@ -4,7 +4,7 @@ A collection of Lua and Python projects exploring AI, automation, games, and sim
 
 ## Blogger_Robot
 
-Blogger_Robot is a social media tool built with Python — it uses the OpenAI API to generate blog posts and images. Topics and image prompts are configured in `subjects.yaml`.
+Blogger_Robot is a social media tool built with Python – it uses the OpenAI API to generate blog posts and images. Topics and image prompts are configured in `subjects.yaml`.
 
 For each topic, the tool creates a folder containing the article, images, and SEO metadata. Example outputs are available in the `blog_posts` folder.
 

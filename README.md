@@ -29,3 +29,7 @@ A classic Snake game built with Lua and the LÖVE game engine. Guide the snake a
 ## Cells
 
 A cell simulation built with Lua and the LÖVE game engine. Cells consume food that appears on the screen, grow, and eventually divide. A cell disappears if it goes without food for too long. Press Space to create new cells and Esc to close the simulation.
+
+## Generated AI Images
+
+In this folder, I showcase my AI image-prompting skills. The images were created with GPT Image 1 and GPT Image 2 and selected for their quality and minimal visual artifacts. I further enhanced them using my own image-editing scripts.
